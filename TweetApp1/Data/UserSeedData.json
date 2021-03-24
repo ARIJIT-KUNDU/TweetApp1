@@ -1,0 +1,134 @@
+﻿[
+  {
+    "FirstName": "York",
+    "LastName": "Garza",
+    "Gender": "male",
+    "Dob": "1969-05-22",
+    "Email": "yorkgarza@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Fugiat dolore excepteur dolor aute.",
+        "Description": "Sit dolor do cillum officia. Aliqua cupidatat culpa magna sit enim fugiat anim ipsum. Non commodo Lorem dolor sint sit quis minim deserunt elit fugiat do ad. Cupidatat mollit officia eiusmod est minim eiusmod consectetur voluptate ex.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Gentry",
+    "LastName": "Key",
+    "Gender": "male",
+    "Dob": "1972-03-28",
+    "Email": "gentrykey@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Occaecat id eiusmod duis qui est ullamco veniam ut Lorem proident eu exercitation ut.",
+        "Description": "Minim aliqua ipsum nisi duis occaecat minim commodo. Nostrud consectetur in elit culpa ex quis et consectetur exercitation nostrud sint eiusmod. Anim sint laboris officia in est. Et enim nulla dolore mollit elit.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Aida",
+    "LastName": "Pena",
+    "Gender": "female",
+    "Dob": "1994-04-19",
+    "Email": "aidapena@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Cupidatat sit in consectetur do culpa culpa officia in et exercitation non veniam.",
+        "Description": "Magna Lorem consequat qui ex amet ex ad qui amet sit labore minim voluptate consequat. Nostrud velit et do Lorem tempor exercitation elit cillum aliqua. Adipisicing cillum deserunt ullamco cillum voluptate do duis aliqua dolore nostrud cillum magna. Id officia ullamco aliquip irure est. Laborum non aliqua enim labore officia. Amet do eu occaecat mollit irure laboris.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Pamela",
+    "LastName": "Burt",
+    "Gender": "female",
+    "Dob": "1982-08-03",
+    "Email": "pamelaburt@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Adipisicing ullamco exercitation elit veniam ea dolore eiusmod velit excepteur.",
+        "Description": "Esse deserunt aliquip sit culpa nulla deserunt est consectetur consequat ad labore pariatur voluptate sit. Officia officia sint tempor officia anim amet do ad dolore. Sunt sint laborum aliqua labore non aute anim qui in adipisicing. Ad est proident duis exercitation officia ut ex veniam magna pariatur nisi eiusmod labore eiusmod.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Bonner",
+    "LastName": "Gallegos",
+    "Gender": "male",
+    "Dob": "1980-07-12",
+    "Email": "bonnergallegos@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Duis qui id magna duis.",
+        "Description": "Elit deserunt est Lorem ad commodo sunt enim Lorem do cillum adipisicing. Non cupidatat in consequat anim nulla qui sint cillum mollit non. Consequat minim adipisicing enim amet et ipsum aliquip ipsum dolore commodo.\r\n"
+      }
+    ]
+  },
+
+  {
+    "FirstName": "Guy",
+    "LastName": "Mooney",
+    "Gender": "male",
+    "Dob": "1994-01-05",
+    "Email": "guymooney@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Ea deserunt anim reprehenderit nulla cupidatat aliquip proident consequat do.",
+        "Description": "Elit qui laboris occaecat proident anim. Quis consequat aliquip tempor ex ipsum. Velit reprehenderit consequat velit Lorem velit duis magna quis nostrud ipsum tempor culpa duis tempor.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Roxie",
+    "LastName": "Duke",
+    "Gender": "female",
+    "Dob": "1970-06-14",
+    "Email": "roxieduke@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Ut et ipsum aute est nulla non deserunt eu.",
+        "Description": "Dolor ex deserunt exercitation officia occaecat ex incididunt id consectetur ut deserunt commodo. Consequat eu laborum aute labore nisi velit id excepteur non velit sunt minim officia. Anim pariatur nisi reprehenderit consequat ad irure deserunt nostrud reprehenderit consectetur in. In est deserunt consequat deserunt et cupidatat sit tempor ut eu velit do. Enim magna laborum id fugiat do exercitation anim sint laboris dolore.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Inez",
+    "LastName": "Conley",
+    "Gender": "female",
+    "Dob": "1951-03-02",
+    "Email": "inezconley@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Reprehenderit anim officia dolore labore officia sit tempor exercitation ipsum ullamco officia duis.",
+        "Description": "Occaecat non est magna deserunt laboris consectetur et elit veniam. Sit adipisicing adipisicing reprehenderit ut est. Cillum excepteur officia enim irure fugiat officia incididunt ipsum mollit incididunt non occaecat. Qui cillum ex ipsum ipsum officia et minim labore anim Lorem sit cillum ad minim. Ullamco veniam veniam exercitation ut. Consectetur deserunt anim elit pariatur id reprehenderit occaecat.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Tracey",
+    "LastName": "Duffy",
+    "Gender": "female",
+    "Dob": "1982-11-18",
+    "Email": "traceyduffy@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Veniam qui exercitation duis aliqua excepteur Lorem ex nulla incididunt.",
+        "Description": "Exercitation ullamco sit enim sit Lorem pariatur velit aute ad sit minim dolore ipsum sit. Occaecat eu aute amet dolor quis incididunt laboris nostrud ipsum anim sit labore qui consequat. Dolore occaecat deserunt commodo magna amet occaecat commodo anim incididunt duis excepteur.\r\n"
+      }
+    ]
+  },
+  {
+    "FirstName": "Duffy",
+    "LastName": "Battle",
+    "Gender": "male",
+    "Dob": "1966-05-16",
+    "Email": "duffybattle@scenty.com",
+    "Tweets": [
+      {
+        "Title": "Sint officia do irure aute irure.",
+        "Description": "Est adipisicing adipisicing nulla ullamco et culpa velit quis do consectetur incididunt Lorem labore. Cupidatat ipsum mollit aliquip quis enim aliquip aliqua ea enim ad occaecat ea aliqua. Ea sunt incididunt enim ullamco ut.\r\n"
+      }
+    ]
+  }
+
+]
